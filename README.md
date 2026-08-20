@@ -103,7 +103,7 @@ PENDING - create and populate CITATION.cff
 PENDING - select a license, then add the details as appropriate.
 
 ## Author / contact
-Maintainer: [(https://github.com/0xa08ab242)]
+Maintainer: https://github.com/0xa08ab242
 Questions, corrections, and suggestions are welcome through GitHub Issues.
 
 ## Why "The Sieve of Theophrastus"?
