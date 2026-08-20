@@ -59,7 +59,7 @@ notes or event record.
 
 The actual calendar date on which a measurement is made is recorded.
 
-Specimen age is calculated from the recorded germination date rather
+Specimen age is calculated from the recorded emergence date rather
 than inferred from the intended measurement interval.
 
 ---
@@ -69,7 +69,7 @@ than inferred from the intended measurement interval.
 ## 3.1 Routine measurements
 
 Routine quantitative measurements are generally collected at
-approximately 30-day intervals following germination.
+approximately 30-day intervals following emergence.
 
 The intended interval is approximately:
 
@@ -131,23 +131,18 @@ beyond what is reasonably necessary to obtain the measurement.
 
 # 5. Age calculation
 
-Specimen age is expressed in days since recorded germination.
+Specimen age is expressed in days since recorded emergence.
 
-### Definition of germination
+### Definition of emergency
 
-[Define precisely what constitutes "germination" for this project.]
-
-For example:
-
-> Germination date is recorded as the date on which the seedling is
-> first observed to have emerged sufficiently to establish that
-> germination has occurred.
+Emergence date is recorded as the date on which the seedling shoot is first 
+observed to have emerged after being sown.
 
 ### Age calculation
 
 Age in days is calculated as:
 
-`measurement date - germination date`
+`measurement date - emergence date`
 
 The calculated age is stored in the dataset as `age_days`.
 
@@ -241,34 +236,21 @@ non-vertical growth, leader length may exceed vertical height.
 
 ## 8.1 Definition
 
-Crown width is:
-
-[DEFINE — e.g. maximum horizontal width of the living crown.]
+Crown width is the maximum horizontal width of the living crown.
 
 ## 8.2 Included material
 
 Include:
 
-[leaves / living branches / other]
+leaves / living branches / other
 
 Exclude:
 
-[dead tissue / isolated outlier leaf / etc.]
+dead tissue
 
 ## 8.3 Measurement procedure
 
-[Describe procedure.]
-
-If two dimensions are recorded:
-
-- maximum crown width
-- perpendicular crown width
-
-[STATE WHETHER BOTH ARE RECORDED.]
-
-If only one dimension is recorded:
-
-[DEFINE WHETHER IT IS THE MAXIMUM OBSERVED WIDTH.]
+Maximum crown width is the only dimension recorded.
 
 ## 8.4 Units
 
@@ -285,16 +267,17 @@ location.
 
 ## 9.2 Measurement location
 
-The measurement location is:
-
-[DEFINE EXACT DISTANCE FROM SUBSTRATE OR OTHER REFERENCE POINT.]
+The measurement location is between the substrate and the first (false 
+leaves), roughly a thumbs' width above the substrate, because the 
+calipers are supported on the hands above the substrate to avoid 
+damaging the seedlings.
 
 The same reference location should be used for repeated measurements
 where practical.
 
 ## 9.3 Instrument
 
-[Specify calipers / micrometer / other instrument.]
+Digital calipers
 
 Instrument:
 
@@ -306,12 +289,11 @@ Resolution:
 
 ## 9.4 Measurement procedure
 
-[Describe exactly how the instrument is positioned.]
-
-[Specify whether bark is included.]
-
-[Specify whether pressure is applied and, if so, how pressure is
-standardized.]
+Calipers rest upon the hand, which rests on the substrait, and positioned 
+perpendicular to the stem to be measured.  The thumb wheel of the calipers
+are used to close the gap until both caliper sides touch the stem, but the
+calipers are not pressed into the stem.  The measurement is read before 
+moving the calipers.  The instrument is tared before each measurement.
 
 ## 9.5 Young specimens
 
@@ -328,7 +310,7 @@ The absence of a measurement is not interpreted as zero diameter.
 
 Measurements are recorded to:
 
-[XX.XX mm / XX.XX?]
+XX.XX mm
 
 Precision should reflect the actual resolution and repeatability of
 the measurement instrument rather than implying greater accuracy than
@@ -337,8 +319,6 @@ the instrument provides.
 ---
 
 # 10. Measurement precision and rounding
-
-[Describe general rounding policy.]
 
 Measurements should be recorded at the highest practical precision
 supported by the instrument and measurement technique.
