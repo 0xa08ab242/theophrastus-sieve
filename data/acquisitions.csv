@@ -1,2 +1,3 @@
-acquisition_id,acquisition_date,source_type,source_name,source_location,country,supplier,seed_lot,source_identifier,provenance_notes
-ACQ-2026-001,2026-06-20,purchased,"Example Seed Supplier","Unknown","Unknown","Example Seed Supplier","LOT-123","Supplier listing 456","Labeled Dalbergia melanoxylon; geographic provenance not provided"
+"acquisition_id","acquisition_date","source_type","source_name","source_location","country","supplier","seed_lot","source_identifier","provenance_notes"
+"20260601_23660_PT",2026-06-01,"purchased","mundosemillas ","Canary Islands","Portugal","mundosemillas ","12-14712-23660","ebay.com/str/semillasunicas ","Labeled Dalbergia melanoxylon; geographic provenance not provided"
+"20260819_FM3A4FC6A_HN",2026-08-12,"purchased","Sheffield’s Seed","Locke NY","USA","Sheffield’s Seed",1837874,"sheffields.com","Labeled Dalbergia retusa; Honduras 2026"

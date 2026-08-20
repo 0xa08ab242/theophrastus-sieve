@@ -1,2 +1,10 @@
-specimen_id,event_date,event_type,event_status,description,source,notes
-DM0-1,2026-08-11,morphology,observed,"Specimen leaning substantially from vertical","direct_observation","No injury observed"
+"specimen_id","event_date","event_type","event_status","description","source","notes"
+"dm0-3",2026-07-15,"health","observed","yellow leaves with green veins, possible iron deficiency or root issue","direct_observation","treated with iron and moved to a deeper pot"
+"dm0-3",2026-07-29,"health","observed","new leaves look better after iron treatment and repot","direct_observation",
+"dm0-1",2026-07-30,"morphology","observed","since the most recent repot, seedling leans more severely","direct_observation",
+"dm0-2",2026-07-30,"morphology","observed","since the most recent repot, seedling leans more severely","direct_observation",
+"dm0-3",2026-07-30,"morphology","observed","since the most recent repot, seedling leans more severely","direct_observation",
+"dm0-4",2026-07-30,"morphology","observed","since the most recent repot, seedling leans more severely","direct_observation",
+"dm0-1",2026-08-09,"health","observed","observed many spots or maybe bumps on some of the leaves, have picture","direct_observation",
+"dm0-2",2026-08-09,"health","observed","observed many spots or maybe bumps on some of the leaves, have picture","direct_observation",
+"dm0-3",2026-08-09,"health","observed","observed many spots or maybe bumps on some of the leaves, have picture","direct_observation",
