@@ -1,0 +1,2 @@
+acquisition_id,acquisition_date,source_type,source_name,source_location,country,supplier,seed_lot,source_identifier,provenance_notes
+ACQ-2026-001,2026-06-20,purchased,"Example Seed Supplier","Unknown","Unknown","Example Seed Supplier","LOT-123","Supplier listing 456","Labeled Dalbergia melanoxylon; geographic provenance not provided"

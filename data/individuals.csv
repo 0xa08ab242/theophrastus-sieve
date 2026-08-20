@@ -1,0 +1,2 @@
+specimen_id,acquisition_id,genus,species,cohort_id,sowing_date,germination_date,status,notes
+DM0-1,ACQ-2026-001,Dalbergia,melanoxylon,DM0,2026-07-01,2026-07-05,alive,"Initial blackwood cohort"
