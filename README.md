@@ -39,12 +39,11 @@ DM4 — Dalbergia melanoxylon
 
 ## What is being measured
 Various measurements are being collected at roughly 30 day intervals:
-Variable	Unit	Description
-Vertical height	inches	Vertical projection from substrate to highest living point
-Leader length	inches	Length following the measured leader
-Crown width	inches	Maximum crown width
-Stem diameter	mm	Diameter at defined measurement position
-Age	days	Days since recorded sprouting
+- Vertical height in	inches - Vertical projection from substrate to highest living point
+- Leader length	in inches -	Length following the measured leader
+- Crown width	in inches	- Maximum crown width
+- Stem diameter	in mm	- Diameter at defined measurement position
+- Age	in days	- Days since recorded sprouting
 
 See documentation/measurement-protocol.md for complete definitions and procedures.
 PENDING - create and populate documentation/measurement-protocol.md
@@ -104,6 +103,7 @@ PENDING - select a license, then add the details as appropriate.
 
 ## Author / contact
 Maintainer: https://github.com/0xa08ab242
+
 Questions, corrections, and suggestions are welcome through GitHub Issues.
 
 ## Why "The Sieve of Theophrastus"?
