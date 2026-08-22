@@ -10,14 +10,14 @@ The project is intended to produce a reusable observational dataset rather than 
 ## Scope
 Current taxa:
 - Dalbergia melanoxylon
-
-Pending Taxa (acquired and attempting germination):
 - Dalbergia retusa
+
+Pending Taxa (acquired and/or attempting germination):
 - Guaiacum sanctum
 - Sequoia sempervirens
 - Sequoiadendron giganteum
 
-Desired taxa (actitvely seeking to acquire)
+Desired taxa (actively seeking to acquire)
 - Brosimum alicastrum
 - Brosimum guianencse
 - Brosimum rubescens
