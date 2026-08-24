@@ -174,16 +174,20 @@ The upper endpoint is:
 [DEFINE — e.g. highest living leaf, terminal bud, or other defined
 vegetative point.]
 
-[Clarify whether dead/damaged tissue is excluded.]
-
 ## 6.4 Measurement procedure
 
-1. [Describe how the specimen is positioned.]
-2. [Describe whether the specimen is allowed/required to remain in its
-   natural resting orientation.]
-3. [Describe measuring instrument.]
-4. [Describe how the vertical projection is determined.]
-5. [Describe rounding/precision.]
+1. Specimen is in its natural upright position as it sits in the container or
+planted in the ground.
+2. The specimen is required to remain in its natural resting orientation.
+3. A rigid rule with visible length indicators is placed behind the upper
+endpoint.
+4. The end of the ruler placed at the level of the soil near the stem and 
+positioned vertically, without leaning.
+5. The highest mark that the upper endpoint reaches is the measured value.  If
+the upper endpoint exceeds one mark and fails to reach the next mark, the 
+lesser mark is the value used.  The precision is determined by the instrument.
+For example, if the ruler only shows one eighth of an inch divisions, then the
+measured results will be constrained to eighths, not estimated sixteenths.
 
 ## 6.5 Units
 
@@ -208,16 +212,18 @@ point.
 
 ## 7.2 Leader selection
 
-[DEFINE HOW THE LEADER IS SELECTED.]
-
 If multiple leaders are present:
 
-[DEFINE WHETHER ONE IS DESIGNATED AS THE PRIMARY LEADER, WHETHER THE
-LONGEST LEADER IS USED, OR WHETHER MULTIPLE LEADERS ARE RECORDED.]
+THE LONGEST LEADER IS USED.
 
 ## 7.3 Measurement procedure
 
-[Describe procedure.]
+A flexible string, cord, or similar, is placed adjacent to the stem as where it
+ touches the soil, and carefully holding it adjacent and touching the stem, the
+ string mimics the shape and length of the path from soil to the tip of the 
+leader, where the distal end of the string is marked.  The string is then 
+removed from the specimen and placed adjacent to a straight-edge, ridig ruler 
+and the straightened length of the string is measured.
 
 ## 7.4 Units
 
@@ -279,13 +285,9 @@ where practical.
 
 Digital calipers
 
-Instrument:
-
-[MODEL, if useful]
-
 Resolution:
 
-[XX mm]
+XX mm
 
 ## 9.4 Measurement procedure
 
