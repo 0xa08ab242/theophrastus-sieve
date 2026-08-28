@@ -297,6 +297,12 @@ are used to close the gap until both caliper sides touch the stem, but the
 calipers are not pressed into the stem.  The measurement is read before 
 moving the calipers.  The instrument is tared before each measurement.
 
+Attempt to measure the stem diameter at two perpendicular angles at the same
+height above the substrait and below the false leaves.  The presented value is
+the average of the measurements done at different angles.
+
+If necessary, remove bracing jig elements to perform the measurements.
+
 ## 9.5 Young specimens
 
 Stem diameter measurements may be omitted when the stem is considered
@@ -432,6 +438,15 @@ Where practical, photographs should include:
 
 [DEFINE CURRENT PHOTOGRAPHY PROCEDURE.]
 
+The photographic procedure is still a work-in-progress, but the provisional
+steps include at least 3 photographs:
+
+- picture of the specimen and the label within the same frame
+- picture of the specimen from top-down, where the bottom of the frame is the
+near side, where the specimen label is located
+- picture from an oblique angle showing the stem at the substrait, the entire 
+crown width, and the top, where the angle shows the top of the leaves
+
 ---
 
 # 15. Deviations from protocol
@@ -463,6 +478,7 @@ historical measurements.
 |---|---|---|
 | 0.5 | 2026-06-19 | Preliminary protocol |
 | 1.0 | 2026-08-19 | Initial protocol |
+| 1.1 | 2026-08-28 | Revised stem diameter and added provisional photography |
 | 1.1 | YYYY-MM-DD | [Description] |
 
 Historical measurements retain the protocol version under which they
