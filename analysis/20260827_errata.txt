@@ -1,0 +1,7 @@
+On 2026-08-28, I observed that some of the data that was imported had been 
+transposed between columns.  Specifically, the Vertical Height and Leader 
+Length columns for the data from 25-AUG thru 27-AUG were swapped.  During 
+the pull release to add the data from 28-AUG, I corrected the values for those
+entries as well.  However, the preliminary analyses were done on the incorrect
+data.  On the next analysis run, I will remove the analyses from 27-AUG along
+with this note.

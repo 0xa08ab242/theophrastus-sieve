@@ -27,16 +27,22 @@
 "dm4-7",2026-08-20,14,1.75,"NA",1.75,"NA","healthy","Leader length not measured; stem diameter not measured",1
 "dm2-1",2026-08-24,30,6.375,5.75,6.625,2.34,"healthy","Specimen leaning; measured before applying bracing",1
 "dm3-1",2026-08-25,30,6,5.625,6,2.49,"healthy","Specimen healthy, not leaning",1
-"dm1-3",2026-08-27,30,4.375,4,3.875,2.34,"healthy","Specimen healthy, not leaning",1
-"dm2-3",2026-08-27,30,5.5,5.125,5.5,2.13,"healthy","Specimen healthy, not leaning",1
-"dm2-6",2026-08-27,30,5.25,5.75,4.5,2.03,"healthy","Specimen healthy, leaning slightly, not braced",1
+"dm1-3",2026-08-27,30,4,4.375,3.875,2.34,"healthy","Specimen healthy, not leaning",1
+"dm2-3",2026-08-27,30,5.125,5.5,5.5,2.13,"healthy","Specimen healthy, not leaning",1
+"dm2-6",2026-08-27,30,5.75,5.25,4.5,2.03,"healthy","Specimen healthy, leaning slightly, not braced",1
 "dm3-5",2026-08-27,30,4.625,4.625,4.625,1.97,"healthy","Specimen healthy, not leaning",1
-"dm3-6",2026-08-27,30,4.875,4.375,4.5,2.42,"healthy","Specimen healthy, not leaning",1
-"dm4-3",2026-08-27,30,5.75,4.875,5.875,2.23,"healthy","Specimen healthy, not leaning",1
-"dm0-1",2026-08-27,59,11.5,7.75,7.375,4.41,"healthy","Specimen healthy; leaning and braced, measured while braced",1
-"dm0-2",2026-08-27,58,13.75,11.25,9.25,5.28,"healthy","Specimen healthy; leaning and braced, measured while braced",1
-"dm0-3",2026-08-27,54,11,8.25,7.875,5.39,"healthy","Specimen healthy; leaning and braced, measured while braced",1
-"dm0-4",2026-08-27,54,11.625,9.25,10,5.50,"healthy","Specimen healthy; leaning and braced, measured while braced",1
-"dm0-1",2026-08-28,60,10.625,8.125,7.375,4.265,"healthy","Specimen healthy, removed brace before measuring; used revised stem diameter measuring protocol",
-"dm2-4",2026-08-28,30,5.625,5.125,4,1.94,"healthy","Specimen healthy, not leaning; used revised stem diameter measuring protocol",
-"dm2-5",2026-08-28,30,6,5.875,4,2.56,"healthy","Specimen healthy, not leaning; used revised stem diameter measuring protocol",
+"dm3-6",2026-08-27,30,4.375,4.875,4.5,2.42,"healthy","Specimen healthy, not leaning",1
+"dm4-3",2026-08-27,30,4.875,5.75,5.875,2.23,"healthy","Specimen healthy, not leaning",1
+"dm0-1",2026-08-27,59,7.75,11.5,7.375,4.41,"healthy","Specimen healthy; leaning and braced, measured while braced",1
+"dm0-2",2026-08-27,58,11.25,13.75,9.25,5.28,"healthy","Specimen healthy; leaning and braced, measured while braced",1
+"dm0-3",2026-08-27,54,8.25,11,7.875,5.39,"healthy","Specimen healthy; leaning and braced, measured while braced",1
+"dm0-4",2026-08-27,54,9.25,11.625,10,5.50,"healthy","Specimen healthy; leaning and braced, measured while braced",1
+"dm0-1",2026-08-28,60,8.125,10.625,7.375,4.265,"healthy","Specimen healthy, removed brace before measuring; used revised stem diameter measuring protocol",
+"dm2-4",2026-08-28,30,5.125,5.625,4,1.94,"healthy","Specimen healthy, not leaning; used revised stem diameter measuring protocol",
+"dm2-5",2026-08-28,30,5.875,6,4,2.56,"healthy","Specimen healthy, not leaning; used revised stem diameter measuring protocol",
+"dm0-2",2026-09-28,60,11.125,13.375,10,5.33,"healthy","Specimen healthy, removed brace before measuring; used revised stem diameter measuring protocol",
+"dm1-4",2026-09-28,30,4.125,4.375,3.75,2.03,"healthy","Specimen healthy, not leaning",
+"dm3-3",2026-09-28,30,5.375,7.375,5.75,2.44,"healthy","Specimen healthy, not leaning",
+"dm3-4",2026-09-28,30,6.125,7.625,5.625,2.975,"healthy","Specimen healthy, not leaning",
+"dm3-7",2026-09-28,30,4.375,5.75,4.125,1.925,"healthy","Specimen healthy, not leaning",
+"dm4-2",2026-09-28,30,4.5,5,3.5,1.945,"healthy","Specimen healthy, not leaning",
