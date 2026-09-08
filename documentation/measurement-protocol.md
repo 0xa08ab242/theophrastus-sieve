@@ -376,6 +376,7 @@ growth or interpretation of measurements.
 Examples include:
 
 - transplanting;
+- relocating;
 - physical injury;
 - growing-tip damage;
 - environmental stress;
@@ -476,10 +477,11 @@ historical measurements.
 
 | Version | Date | Change |
 |---|---|---|
-| 0.5 | 2026-06-19 | Preliminary protocol |
-| 1.0 | 2026-08-19 | Initial protocol |
-| 1.1 | 2026-08-28 | Revised stem diameter and added provisional photography |
-| 1.1 | YYYY-MM-DD | [Description] |
+| 0.5 | 2026-06-19 | [Preliminary protocol] |
+| 1.0 | 2026-08-19 | [Initial protocol] |
+| 1.1 | 2026-08-28 | [Revised stem diameter and added provisional photography] |
+| 1.2 | 2026-09-08 | [Added event type relocation] |
+| 1.x | YYYY-MM-DD | [Description] |
 
 Historical measurements retain the protocol version under which they
 were collected where practical.

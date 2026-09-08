@@ -58,7 +58,7 @@ data/
 ├── acquisitions.csv
 ├── measurements.csv
 └── events.csv
-PENDING - create and populate the above files, using data from my lab notebook and existing spreadsheets
+ONGOING - create and populate the above files, using data from my lab notebook and existing spreadsheets
 
 individuals.csv — identity and relatively stable attributes
 acquisitions.csv — source/provenance information
@@ -84,6 +84,10 @@ These observations are collected from plants grown under non-native cultivation 
 
 ## Photographic documentation
 Photographic records may accompany selected measurement events to document morphology, architecture, injury, health, and developmental changes that cannot be fully represented by numerical measurements.
+
+## Weather data
+Historical weather data is being sourced from [Open-Meteo.com](https://open-meteo.com) using the default Reanalysis model settings.
+
 
 ## Versioning
 This repository is maintained as a versioned, evolving dataset. The working repository may change as observations accumulate and measurement protocols are refined. Stable releases will represent defined snapshots of the dataset.
