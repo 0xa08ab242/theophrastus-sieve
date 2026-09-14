@@ -481,6 +481,7 @@ historical measurements.
 | 1.0 | 2026-08-19 | [Initial protocol] |
 | 1.1 | 2026-08-28 | [Revised stem diameter and added provisional photography] |
 | 1.2 | 2026-09-08 | [Added event type relocation] |
+| 1.3 | 2026-09-13 | [Split measurements by species] |
 | 1.x | YYYY-MM-DD | [Description] |
 
 Historical measurements retain the protocol version under which they
@@ -492,7 +493,8 @@ were collected where practical.
 
 - `data/individuals.csv`
 - `data/acquisitions.csv`
-- `data/measurements.csv`
+- `data/dm_measurements.csv`
+- `data/dr_measurements.csv`
 - `data/events.csv`
 - `documentation/data-dictionary.md`
 - `CITATION.cff`

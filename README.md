@@ -36,6 +36,7 @@ DM1 — Dalbergia melanoxylon
 DM2 — Dalbergia melanoxylon
 DM3 — Dalbergia melanoxylon
 DM4 — Dalbergia melanoxylon
+DR0 — Dalbergia retusa
 
 ## What is being measured
 Various measurements are being collected at roughly 30 day intervals:
@@ -56,13 +57,15 @@ Data organization is proposed as follows:
 data/
 ├── individuals.csv
 ├── acquisitions.csv
-├── measurements.csv
+├── dm_measurements.csv
+├── dr_measurements.csv
 └── events.csv
 ONGOING - create and populate the above files, using data from my lab notebook and existing spreadsheets
 
 individuals.csv — identity and relatively stable attributes
 acquisitions.csv — source/provenance information
-measurements.csv — quantitative observations
+dm_measurements.csv — quantitative observations for Dalbergia melanoxylon
+dr_measurements.csv — quantitative observations for Dalbergia retusa
 events.csv — health, injury, environmental, cultivation, and other events
 
 PENDING - decide if and when to add 

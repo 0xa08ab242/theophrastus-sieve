@@ -56,7 +56,8 @@ were generated where practical.
 
 - `data/individuals.csv`
 - `data/acquisitions.csv`
-- `data/measurements.csv`
+- `data/dm_measurements.csv`
+- `data/dr_measurements.csv`
 - `data/events.csv`
 - `documentation/data-dictionary.md`
 - `CITATION.cff`
