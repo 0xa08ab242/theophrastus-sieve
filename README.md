@@ -31,23 +31,23 @@ Status: Active / Ongoing
 The dataset is currently in the initial seedling-observation phase. Specimens are being tracked individually from germination, with routine measurements approximately every 30 days and additional observations associated with developmental or environmental events.
 
 Current cohorts (post germination):
-DM0 — Dalbergia melanoxylon
-DM1 — Dalbergia melanoxylon
-DM2 — Dalbergia melanoxylon
-DM3 — Dalbergia melanoxylon
-DM4 — Dalbergia melanoxylon
-DR0 — Dalbergia retusa
+- DM0 — Dalbergia melanoxylon
+- DM1 — Dalbergia melanoxylon
+- DM2 — Dalbergia melanoxylon
+- DM3 — Dalbergia melanoxylon
+- DM4 — Dalbergia melanoxylon
+- DR0 — Dalbergia retusa
 
 ## What is being measured
 Various measurements are being collected at roughly 30 day intervals:
 - Vertical height in	inches - Vertical projection from substrate to highest living point
-- Leader length	in inches -	Length following the measured leader
-- Crown width	in inches	- Maximum crown width
-- Stem diameter	in mm	- Diameter at defined measurement position
-- Age	in days	- Days since recorded sprouting
+- Leader length in inches -	Length following the measured leader
+- Crown width in inches	- Maximum crown width
+- Stem diameter in mm	- Diameter at defined measurement position
+- Age in days	- Days since recorded sprouting
 
 See documentation/measurement-protocol.md for complete definitions and procedures.
-PENDING - create and populate documentation/measurement-protocol.md
+PENDING - edit/update documentation/measurement-protocol.md
 
 ## Individual tracking
 Each specimen is assigned a permanent unique identifier at the beginning of its participation in the dataset. Identifiers are never reused or reassigned. Measurements and events are linked to these individual identifiers, allowing longitudinal analysis of individual growth trajectories and variation between specimens.
@@ -60,18 +60,20 @@ data/
 ├── dm_measurements.csv
 ├── dr_measurements.csv
 └── events.csv
+
 ONGOING - create and populate the above files, using data from my lab notebook and existing spreadsheets
+- data/individuals.csv — identity and relatively stable attributes
+- data/acquisitions.csv — source/provenance information
+- data/dm_measurements.csv — quantitative observations for Dalbergia melanoxylon
+- data/dr_measurements.csv — quantitative observations for Dalbergia retusa
+- data/events.csv — health, injury, environmental, cultivation, and other events
+- data/{date_range}_open-meteo-{LAT}.{LON}.csv
+- analysis/{date_range}_theophrastus_{Genus and species shorthand}_{measurement dimension}_{measurement units}.png
 
-individuals.csv — identity and relatively stable attributes
-acquisitions.csv — source/provenance information
-dm_measurements.csv — quantitative observations for Dalbergia melanoxylon
-dr_measurements.csv — quantitative observations for Dalbergia retusa
-events.csv — health, injury, environmental, cultivation, and other events
-
-PENDING - decide if and when to add 
-documentation/
-analysis/
-photos/
+PENDING - decide if and when to add more to the following:
+- analysis/
+- documentation/
+- photos/
 
 ## Raw data vs. analysis
 Raw observations are preserved separately from derived analyses. Calculated growth rates, averages, extrapolations, models, and visualizations are not substituted for the original observations.
@@ -94,6 +96,8 @@ Historical weather data is being sourced from [Open-Meteo.com](https://open-mete
 
 ## Versioning
 This repository is maintained as a versioned, evolving dataset. The working repository may change as observations accumulate and measurement protocols are refined. Stable releases will represent defined snapshots of the dataset.
+The specifics of the versioning is still a work-in-progress, but given the time intervals of the measurement cycles, I am considering release cycles that fit into the natural breaks of those measurement cycles.  For example, the last of the 45/75-day measurements for DM took place on 20-SEP-2026, and the first of the 60/90-day measurements starts on 23-SEP-2026.  Subsequent cycles for DM will always have this small break between, so I am strongly considering a named release for each of these cycles.  I will probably prototype the details of what to do for a release using the recently concluded 45-day cycle, but I do not expect to formally cut the release until the end of the 60-day cycle, since that one aligns with the initial goal of 30 day increments for releases.
+
 
 ## Current development version: 0.1
 First planned stable dataset release: v1.0
