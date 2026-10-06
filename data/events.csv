@@ -34,3 +34,5 @@
 "dm4-5",2026-09-30,"movement","relocated","moved inside and under artificial lights","direct_observation",
 "dr0-1",2026-09-30,"movement","relocated","moved inside and under artificial lights","direct_observation",
 "dr0-2",2026-09-30,"movement","relocated","moved inside and under artificial lights","direct_observation",
+"dm-ALL",2026-10-02,"health","treated","observed leaves dropping and pest infestation, treated with pesticide","direct_observation","leaf loss likely from pests, burned leaves likely from pesticide"
+"dr-ALL",2026-10-02,"health","treated","due to close proximity to infested specimens, treated with pesticide","direct_observation",
