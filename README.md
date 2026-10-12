@@ -47,7 +47,6 @@ Various measurements are being collected at roughly 30 day intervals:
 - Age in days	- Days since recorded sprouting
 
 See documentation/measurement-protocol.md for complete definitions and procedures.
-PENDING - edit/update documentation/measurement-protocol.md
 
 ## Individual tracking
 Each specimen is assigned a permanent unique identifier at the beginning of its participation in the dataset. Identifiers are never reused or reassigned. Measurements and events are linked to these individual identifiers, allowing longitudinal analysis of individual growth trajectories and variation between specimens.
@@ -82,7 +81,6 @@ Missing observations remain missing; values are not invented or extrapolated to 
 ## Measurement methodology
 Measurements are collected according to a versioned measurement protocol. The protocol defines measurement techniques, measurement locations, units, routine measurement intervals, and conditions under which particular measurements are omitted to avoid harming very young specimens.
 documentation/measurement-protocol.md
-PENDING - create and populate the above
 
 ## Data provenance and limitations
 These observations are collected from plants grown under non-native cultivation conditions and should not be interpreted as representative of natural populations or as controlled experimental measurements. Environmental conditions, seed provenance, individual genetic variation, cultivation practices, injury, and measurement limitations may affect observed growth.
@@ -93,14 +91,14 @@ Photographic records may accompany selected measurement events to document morph
 ## Weather data
 Historical weather data is being sourced from [Open-Meteo.com](https://open-meteo.com) using the default Reanalysis model settings.
 
-
 ## Versioning
 This repository is maintained as a versioned, evolving dataset. The working repository may change as observations accumulate and measurement protocols are refined. Stable releases will represent defined snapshots of the dataset.
-The specifics of the versioning is still a work-in-progress, but given the time intervals of the measurement cycles, I am considering release cycles that fit into the natural breaks of those measurement cycles.  For example, the last of the 45/75-day measurements for DM took place on 20-SEP-2026, and the first of the 60/90-day measurements starts on 23-SEP-2026.  Subsequent cycles for DM will always have this small break between, so I am strongly considering a named release for each of these cycles.  I will probably prototype the details of what to do for a release using the recently concluded 45-day cycle, but I do not expect to formally cut the release until the end of the 60-day cycle, since that one aligns with the initial goal of 30 day increments for releases.
+The specifics of the versioning is based on the time intervals of the measurement cycles. I am trying to keep the release cycles fitting into the natural breaks of the measurement cycles.  For example, the last of the 45/75-day measurements for DM took place on 20-SEP-2026, and the first of the 60/90-day measurements started on 23-SEP-2026.  Subsequent cycles for DM will continue to have this break between, so I am using the final measurement of the cycle as the trigger and name for the then current release.  After a few tests of the process, the first formally cut release began a few days after the end of the 60-day cycle for Dalbergia Melanoxylon, specifically I used the final 30-day cycle measurement for Dalberia Retusa.  This point in the cycle allows the release to have both species between measurement cycles.
 
-
-## Current development version: 0.1
-First planned stable dataset release: v1.0
+## Current development version: Dalbergia melanoxylon 22@60, 4@90
+First stable dataset release: Dalbergia melanoxylon 22@60, 4@90 (and Dalbergia retusa 3@30)
+Next planned dataset release: Dalbergia melanoxylon TBD@90, TBD@120 (and Dalbergia retusa TBD@60) [on or about 11-Nov-2026]
+Next planned dataset release: Dalbergia melanoxylon TBD@120, TBD@150 (and Dalbergia retusa TBD@90) [on or about 11-Dec-2026]
 
 ## Reproducibility / future analysis
 Analysis scripts and notebooks will be added as the dataset develops. Derived results should be reproducible from the preserved raw observations whenever practical.
